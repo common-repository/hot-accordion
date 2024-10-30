@@ -1,0 +1,28 @@
+{
+	"title": "Hot Accordion",
+	"name": "hotblocks/accordion",
+	"category": "hot-blocks",
+	"attributes": {
+		"headingString": {
+            "type": "array"
+        },
+	    "fontColor": {
+	        "type": "string"
+	    },
+	    "tabOpen": {
+	        "type": "boolean"
+	    },
+	    "tabOpenDisplay": {
+	        "type": "string"
+	    },
+	    "activeTabClass": {
+	        "type": "string"
+	    }
+	},
+	"supports": {
+		"align": true
+	},
+	"script": "js/hot_accordion.js",
+	"style": "css/view.css",
+	"editorStyle": "css/editor.css"
+}

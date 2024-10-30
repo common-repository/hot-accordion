@@ -1,0 +1,5 @@
+/* Accordion block */
+
+.wp-block-hotblocks-accordion .accordion-content {
+    display: block !important;
+}
